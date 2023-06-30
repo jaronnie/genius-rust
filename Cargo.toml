@@ -1,0 +1,14 @@
+[package]
+name = "genius-rust"
+version = "0.1.0"
+edition = "2021"
+description = "genius for rust"
+homepage = "https://github.com/jaronnie/genius-rust"
+repository = "https://github.com/jaronnie/genius-rust"
+license = "Apache-2.0"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8"
